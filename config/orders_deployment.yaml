@@ -15,10 +15,10 @@ spec:
       containers:
         - name: orders
           image: "gcr.io/chabunsi-project/orders"
-          resources:
-            requests:
-              cpu: 500m
-              memory: 0.7G
-            limits:
-              cpu: 1
-              memory: 1.5G
+#          resources:
+#            requests:
+#              cpu: 500m
+#              memory: 0.7G
+#            limits:
+#              cpu: 1
+#              memory: 1.5G
