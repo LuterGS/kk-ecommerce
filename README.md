@@ -51,3 +51,6 @@ skaffold dev
 - GET /api/products/:id : id로 상품 검색
 - POST /api/products : 상품 생성, body 들어갈 내용은 src/routes/create.ts 참고
 - PUT /api/products/:id : 상품 업데이트, src/routes/update.ts 참고
+
+
+
